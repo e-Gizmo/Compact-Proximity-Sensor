@@ -7,6 +7,6 @@ http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=511&search=
 
 ### Video Tutorial
 ###### eGizmo Compact Proximity Tutorial
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=EBDUCVlZDXs)
+[![Watch the video](http://i.imgur.com/BDulOmo.png)](https://www.youtube.com/watch?v=EBDUCVlZDXs)
 
 - For Technical Support, Kindly email us at egizmo.technical@gmail.com
